@@ -1,0 +1,4 @@
+{
+    "gitlab.debug": true,
+    "gitlab.real-timeSecurityScan.enabled": true
+}
